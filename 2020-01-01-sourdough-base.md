@@ -1,7 +1,7 @@
 ## Introduction to my sourdough starter
 
 This page presents some basic information about my sourdough starter. If you already have your own starter, it should help you navigate my recipes and make sure
-you can use them appropriately. If you do not, it will give you some basic ideas on
+you can use them appropriately. If you do not, it will give you some basic ideas on how to proceed once you do get or start one.
 
 ### Hydration
 
