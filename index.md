@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+## Welcome to the Sourdough Repository!
 
-You can use the [editor on GitHub](https://github.com/the-sourdough-repository/the-sourdough-repository.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Welcome! I have created this Github repository and website in order to share my personal list of recipes with sourdough starter.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Why? After feeding a sourdough starter since spring of 2018, and, like many others, baking even more often than usual during various 2020 lockdowns, I realized I have grown a quite impressive body of good recipes and tips. I started wondering whether a giant, loosely organized Google Document was really the best place for all that information. Why not a simple website instead? I also like sharing particularly successful recipes with friends so having links to give them comes quite in handy.
 
-### Markdown
+As a result this is not a regular recipe blog. I might never post any pictures of the recipes (the jury is still out on that); even if I eventually do, I don't care much about the looks and presentation of what I prepare, so they would definitely look...artisanal, so to speak. I am most definitely not going to tell you the story of my life and of my entire ancestor tree for every recipe. Beside finding that trend boring, nobody else in my immediate family keeps a sourdough starter or bakes homemade bread regularly anyway.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Anyway, without further introduction: expect this page to grow a list of links to various recipes or other tips about sourdough. Happy baking!
 
-```markdown
-Syntax highlighted code block
+### General information and tips
 
-# Header 1
-## Header 2
-### Header 3
+- [Introduction to my sourdough starter](2020-01-01-sourdough-base.md)
 
-- Bulleted
-- List
+### Recipes
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/the-sourdough-repository/the-sourdough-repository.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+TBD!
