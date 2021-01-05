@@ -19,3 +19,4 @@ Anyway, without further introduction: expect this page to grow a list of links t
 The term **rustic** is applied to any bread with a hydration level higher than 60%, while **lean** means that the percentage of fat in the dough is either 0% or negligible.
 
 - [White sourdough bread](2020-01-05-sourdough-bread.md)
+- [Partial wholewheat bread](2020-01-06-partial-wholewheat-bread.md)
