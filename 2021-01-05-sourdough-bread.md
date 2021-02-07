@@ -13,6 +13,13 @@ For 1 large loaf:
 - 280 gr sourdough starter (35%); can be lowered to 250 gr if preferred.
 - 16 gr salt (2%)
 
+### Quick procedure
+
+4h fermentation, with 3 sets of folds 20 minutes apart for the first hour; shaping, proofing overnight in the fridge for 8-9h.
+Baking at 240 degrees with steam for 20 minutes, then at 210 degrees without steam for 30 minutes.
+
+If you want more details about each step, keep reading.
+
 ### Procedure
 
 Refer to the [basic guide](https://the-sourdough-repository.github.io/2020-01-05-basic-guide) ("_Preparing and kneading the dough_" section), for information on how to mix and knead dough by hand.
