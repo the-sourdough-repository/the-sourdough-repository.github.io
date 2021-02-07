@@ -21,3 +21,10 @@ The term **rustic** is applied to any bread with a hydration level higher than 6
 - [White sourdough bread](2021-01-05-sourdough-bread.md)
 - [Partial wholewheat bread](2021-01-06-partial-wholewheat-bread.md)
 - [Focaccia](2021-02-07-focaccia.md)
+
+#### Sweet enriched bread
+
+**Enriched** is the opposite of **lean**: the percentage of in the dough is generally higher than 10%.
+
+- [Plain brioche](2021-02-07-poor-man-brioche.md)
+- [Doughnuts](2021-02-07-doughnuts.md)
