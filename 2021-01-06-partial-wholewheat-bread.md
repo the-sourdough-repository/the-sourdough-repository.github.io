@@ -6,13 +6,18 @@ As mentioned, this is a tweak on the 100% white sourdough bread described [here]
 
 - 250 gr extra-coarse stoneground wholewheat flour (or any type of brown flour you'd like, including spelt).
 - 550 gr strong white flour
-- 700 gr water (75%)
+- 600 gr water (75%)
 - 280 gr sourdough starter (35%); can be lowered to 250 gr if preferred.
 - 16 gr salt (2%)
 
+## Quick procedure
+
+Fermentation: 4.5h-5h, with 3 sets of folds 20 minutes apart for the first hour. Shaping, then proofing overnight in the fridge for 8-9 hours.
+Baking at 240 degrees with steam for 20 minutes, then 210 degrees without steam for 30 minutes.
+
 ## Procedure
 
-The base procedure is the same as I described for the 100% white sourdough bread, with some changes I'll describe below.
+The basic procedure is the same as I described for the 100% white sourdough bread, with some changes I'll describe below.
 
 Since this bread has wholewheat flour, which tends to make bread more dense, I find that increasing the water content improves the result. To keep the dough
 easy to handle and shape by hand, I make the following changes:
