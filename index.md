@@ -20,3 +20,4 @@ The term **rustic** is applied to any bread with a hydration level higher than 6
 
 - [White sourdough bread](2021-01-05-sourdough-bread.md)
 - [Partial wholewheat bread](2021-01-06-partial-wholewheat-bread.md)
+- [Focaccia](2021-02-07-focaccia.md)
